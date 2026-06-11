@@ -1,0 +1,265 @@
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PENDIENTE', total=28500.0}
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+Pedido{numeroPedido='P003', cliente='Marta Rios', descripcion='Ensalada y limonada', categoria='Para llevar', prioridad='Baja', estado='PENDIENTE', total=18500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PENDIENTE', total=28500.0}
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+Pedido{numeroPedido='P003', cliente='Marta Rios', descripcion='Ensalada y limonada', categoria='Para llevar', prioridad='Baja', estado='PENDIENTE', total=18500.0}
+Total pendientes: 3
+Siguiente en cola: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PENDIENTE', total=28500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Procesado: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+Ultimo procesado: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+Total procesados en historial: 1
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Numero de pedido: Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Nombre del cliente: Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: 1. Filtrar por estado
+2. Filtrar por categoria
+Seleccione: Estado: Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+Pedido{numeroPedido='P003', cliente='Marta Rios', descripcion='Ensalada y limonada', categoria='Para llevar', prioridad='Baja', estado='PENDIENTE', total=18500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: 1. Ordenar por cliente ascendente
+2. Ordenar por total descendente
+Seleccione: Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+Pedido{numeroPedido='P003', cliente='Marta Rios', descripcion='Ensalada y limonada', categoria='Para llevar', prioridad='Baja', estado='PENDIENTE', total=18500.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Conteo por estado: {PENDIENTE=2, PROCESADO=1}
+Conteo por categoria: {Mesa=1, Para llevar=1, Domicilio=1}
+Total pendientes usando count(): 2
+Clientes generados con map(): [Ana Torres, Luis Mora, Marta Rios]
+Indice reconstruido con Collectors.toMap(): [P001, P002, P003]
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Categoria: Mesa
+Pedido{numeroPedido='P001', cliente='Ana Torres', descripcion='Hamburguesa, papas y jugo', categoria='Mesa', prioridad='Media', estado='PROCESADO', total=28500.0}
+Categoria: Para llevar
+Pedido{numeroPedido='P003', cliente='Marta Rios', descripcion='Ensalada y limonada', categoria='Para llevar', prioridad='Baja', estado='PENDIENTE', total=18500.0}
+Categoria: Domicilio
+Pedido{numeroPedido='P002', cliente='Luis Mora', descripcion='Pizza personal y gaseosa', categoria='Domicilio', prioridad='Alta', estado='PENDIENTE', total=32000.0}
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Numero del pedido pendiente a cancelar: Pedido cancelado. Sigue en List y Map, pero sale de Queue.
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Total en List: 3
+Total en Queue pendientes: 1
+Total en Deque historial: 1
+Total en Map indice: 3
+Conteo por estado: {PENDIENTE=1, CANCELADO=1, PROCESADO=1}
+Hay pendientes: true
+Todos tienen numero: true
+No hay cancelados: false
+
+===== SISTEMA RESTAURANTE CON COLECCIONES JAVA =====
+1. Registrar elemento
+2. Ver todos los elementos registrados
+3. Ver elementos pendientes
+4. Procesar siguiente elemento
+5. Ver historial de elementos procesados
+6. Buscar elemento por identificador usando Map
+7. Buscar elemento por otro criterio usando Stream
+8. Filtrar elementos usando Stream
+9. Ordenar elementos usando Stream
+10. Ver estadisticas usando Stream y Map
+11. Ver agrupamientos usando Stream y Map
+12. Cancelar elemento pendiente
+13. Deshacer ultimo procesamiento
+14. Ver cantidad de elementos
+15. Salir
+Seleccione una opcion: Saliendo del sistema...
